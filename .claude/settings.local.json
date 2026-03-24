@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:howborisusesclaudecode.com)",
+      "Bash(git:*)",
+      "Bash(xargs ls:*)",
+      "Bash(npm run:*)",
+      "Bash(mkdir:*)",
+      "Read(//c/Users/artist/.claude//**)",
+      "Read(//c/Users/artist/.claude/**)",
+      "Bash(for d:*)",
+      "Bash(do echo:*)",
+      "Read(//c/Users/artist/.claude/plugins/cache/omc/oh-my-claudecode/4.7.8/skills/**)",
+      "Bash(done)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(claude mcp:*)",
+      "Bash(gh repo:*)",
+      "WebFetch(domain:x.com)"
+    ]
+  }
+}

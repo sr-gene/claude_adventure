@@ -1,0 +1,7 @@
+{
+  "tool_name": "WebFetch",
+  "tool_input_preview": "{\"url\":\"https://x.com/affaanmustafa/status/2012378465664745795\",\"prompt\":\"What does this post say about tmux and ECC/everything-claude-code?\"}",
+  "error": "Unable to verify if domain x.com is safe to fetch. This may be due to network restrictions or enterprise security policies blocking claude.ai.",
+  "timestamp": "2026-03-11T02:42:01.047Z",
+  "retry_count": 1
+}

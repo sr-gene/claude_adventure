@@ -1,0 +1,56 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1773193634263,
+  "projectRoot": "D:\\gene\\projects\\gene-project\\claude_adventure",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [],
+    "gitBranches": {
+      "defaultBranch": "main",
+      "branchingStrategy": null
+    }
+  },
+  "customNotes": [],
+  "directoryMap": {},
+  "hotPaths": [
+    {
+      "path": "",
+      "accessCount": 1,
+      "lastAccessed": 1773193779982,
+      "type": "directory"
+    },
+    {
+      "path": "multi-agent-claude-code-setup.md",
+      "accessCount": 1,
+      "lastAccessed": 1773193789552,
+      "type": "file"
+    },
+    {
+      "path": "oh-my-claudecode-usage-guide.md",
+      "accessCount": 1,
+      "lastAccessed": 1773193789865,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}
